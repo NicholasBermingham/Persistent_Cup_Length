@@ -14,3 +14,6 @@ Ling Zhou
 Department of Mathematics, The Ohio State University, US
 
 To calculate the cup length of a given simplicial complex taking coefficients in Z_2
+
+
+This implementation uses the oineus package by Arnur Nigmetov https://github.com/anigmetov/oineus to do its implementation
